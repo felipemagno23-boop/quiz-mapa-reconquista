@@ -4,9 +4,9 @@ Sitio estático en HTML, CSS y JavaScript. Abre `index.html` manteniendo juntos 
 
 ## Experiencia
 
-Primera pregunta al abrir → 8 preguntas → lectura personalizada y acción útil → botón para conocer las herramientas → oferta completa → checkout de Hotmart.
+Primera pregunta al abrir → 8 preguntas → lectura personalizada → error específico → presentación inmediata del método → oferta completa → checkout de Hotmart.
 
-34 alternativas con comentarios distintos. Una selección por pregunta. Volver conserva las respuestas; reiniciar las elimina. La oferta queda oculta hasta que el visitante decide conocer las herramientas, después de recibir la lectura.
+34 alternativas con comentarios distintos. Una selección por pregunta. Volver conserva las respuestas; reiniciar las elimina. El método y la oferta aparecen en la misma pantalla después del resultado, sin botón intermediario.
 
 ## Reglas de clasificación
 
@@ -17,7 +17,7 @@ Primera pregunta al abrir → 8 preguntas → lectura personalizada y acción ú
 
 Los puntos son reglas editoriales internas, no escalas clínicas ni probabilidades de reconciliación. No se muestran al visitante.
 
-Cada lectura incorpora respuestas concretas, una consecuencia posible, una acción, contexto temporal, comprensión de lo ocurrido y prioridad elegida. Elegir seguir adelante o no iniciar contacto adapta la acción y la transición a reconstrucción personal. Las respuestas contradictorias se señalan sin inventar una conclusión.
+La clasificación original se conserva. La presentación muestra una headline específica, dos o tres frases, entre dos y cuatro evidencias y el error que puede agravar el escenario; después presenta el método sin entregar un plan gratuito completo. Elegir seguir adelante o no iniciar contacto adapta la acción y la transición a reconstrucción personal. Las respuestas contradictorias se señalan sin inventar una conclusión.
 
 ## Oferta y datos
 
